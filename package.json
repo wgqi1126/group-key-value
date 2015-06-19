@@ -1,0 +1,22 @@
+{
+  "name": "group-key-value",
+  "version": "1.0.0",
+  "description": "A key value store support group by redis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wgqi1126/group-key-value.git"
+  },
+  "keywords": [
+    "group",
+    "key",
+    "value",
+    "store",
+    "redis"
+  ],
+  "author": "Joe Wang <wgqi1126@qq.com>",
+  "license": "ISC"
+}
